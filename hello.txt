@@ -5,4 +5,4 @@ changing the text here
 
 this is now in dev branch - second message
 
-this is now merge conflict resolved :)
+this is now merge conflict resolved :)git ad
